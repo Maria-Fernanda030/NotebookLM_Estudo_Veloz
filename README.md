@@ -6,5 +6,5 @@ STATUS: EM DESENVOLVIMENTO
 OBJETIVO:
 - Explorar o NotebookLM como ferramenta de apoio ao aprendizado
 
-Assuntos possíveis:
+Assuntos desenvolvidos:
 - Mecânica automotiva básica
